@@ -10,10 +10,10 @@ This affects how much **current** the wire can carry without overheating.
 **2. Insulation thickness and material**
 This affects how well the wire can handle the **voltage** and protect against short circuits, heat, and physical damage.
 
-
+More info: [here](https://www.switchelectronics.co.uk/blogs/news/electronics-automotive-cable-guide)
 
 ---- 
-### WIRE GUIDE
+### WIRE THICKNESS GUIDE
 
 
 | Voltage / Use | Wire Size (mm²)  | Typical Current (A) | Notes |
@@ -27,16 +27,27 @@ This affects how well the wire can handle the **voltage** and protect against sh
 
 
 ----  
-### High Voltage
+### High Voltage + PAT Testing
 
-Any mains voltage or other high-voltage systems require special cable types and professional knowledge. Please approach a hackSpace technician if your project requires connections to the mains.
+Any mains voltage or other high-voltage systems **require special cable types and professional knowledge**. 
+
+**Please approach a hackSpace technician if your project requires connections to the mains.**
 
 Using the wrong cable can create a fire or shock hazard.
 
-A Risk Assessment document signed by your Tutor will be requested if your projects involves High Voltage.
+A **Risk Assessment document** signed by your Tutor will be requested if your project involves High Voltage.
 
-Once your High Voltage project has been wired, you won't be allowed to take the project with you until you provide evidence of a PAT test that confirms that your project is safe. You can request PAT testing by our KU electricians. 
+Once your High Voltage project has been wired, you won't be allowed to take the project with you until you provide evidence of a PAT test that confirms that your project is safe. 
+
+KU provides free PAT testing through our KU electricians. You can request it via your Tutor. Please note that arranging an appointment may take some time.
+
+
+----
+### PURCHASING CLOTH CABLES
+
+[INDUSTVILLE](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is a UK-based supplier specialied in lighting products. Their Fabric Flex Lighting Wire is suitable for lihting connection to mains. 
+
+Specifics on Amperage and Voltage to be confirmed. 
 
 
 
-More info: [here](https://www.switchelectronics.co.uk/blogs/news/electronics-automotive-cable-guide)
