@@ -4,7 +4,7 @@
 
 Buy product [here](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198)
 
-Technical Data Sheet [here]
+Technical Data Sheet [here](https://github.com/kingston-hackSpace/About_wires/blob/main/H05V-K%20TECHNICAL%20DATA%20SHEET%201.pdf)
 
 ----
 ### SUITABLE FOR:
