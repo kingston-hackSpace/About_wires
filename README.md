@@ -45,7 +45,9 @@ KU provides free PAT testing through our KU electricians. You can request it via
 ----
 ### PURCHASING CLOTH CABLES
 
-[INDUSTVILLE's Fabric Flex Lighting Wire](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is suitable for indoor lighting connection to mains. Read more [here].(https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md)
+[INDUSTVILLE's Fabric Flex Lighting Wire](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is suitable for indoor lighting connection to mains. 
+
+Read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md)
 
 
 
