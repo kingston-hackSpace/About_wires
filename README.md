@@ -10,8 +10,6 @@ This affects how much **current** the wire can carry without overheating.
 **2. Insulation thickness and material**
 This affects how well the wire can handle the **voltage** and protect against short circuits, heat, and physical damage.
 
-**3. Flexibility**
-
 More info: [here](https://www.switchelectronics.co.uk/blogs/news/electronics-automotive-cable-guide)
 
 ---- 
@@ -47,51 +45,10 @@ KU provides free PAT testing through our KU electricians. You can request it via
 ----
 ### PURCHASING CLOTH CABLES
 
-[INDUSTVILLE](https://www.industville.co.uk/pages/about-industville) is UK-based an interior design brand with a specialist focus on lighting. 
-
-Their [Fabric Flex Lighting Wire](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is suitable for lighting connection to mains for:
-
-- Cable type: H05V-K
-  
-- This is a flexible, single-core PVC insulated wire used mainly inside equipment and control panels.
-
-- Rated Voltage : 300/500 V
-
-- Average insulation thickness: 0.60 mm
-
-- Temperature rage: (–15) °C to (+70) °C
-
-- Safe for normal domestic and industrial environments
-
-- Not suitable near heaters, ovens, or motors without extra protection
-
-- AENOR <HAR> CERTIFICATION.
-
-- Suitable for:
+[INDUSTVILLE's Fabric Flex Lighting Wire](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is suitable for indoor lighting connection to mains. Read more [here].
 
 
 
-Internal wiring of appliances
-
-Lighting fittings
-
-Control and signalling circuits
-
-Inside conduits (surface-mounted or embedded)
-
-Fixed, protected installations
-
-NOT suitable for
-
-Direct burial
-
-Outdoor exposure without conduit
-
-High-temperature equipment
-
-Fixed building wiring on its own (needs conduit or trunking)
-
-See the Technical Data Sheet [here]
 
 
 
