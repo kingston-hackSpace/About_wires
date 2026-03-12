@@ -59,7 +59,7 @@ Note: Suppliers from the EU will refer to mm2, while US suppliers follow the AWG
 ----  
 ### High Voltage + PAT Testing
 
-**Please approach a hackSpace technician if your project requires connections to the mains.**
+**Please approach a hackSpace technician if your project requires connections to the mains. They will guide you choosing the cable for your project. Please book an appointment.**
 
 Using the wrong cable can cause a fire. 
 
@@ -73,12 +73,9 @@ KU provides free PAT testing through our KU electricians. You can request it via
 ----
 ### PURCHASING CLOTH CABLES
 
-[INDUSTVILLE's Fabric Flex Lighting Wire](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is suitable for indoor lighting connection to mains. 3-core wires. 
+**NOTE: High voltage wiring is extremely dangerous if done incorrectly. Please dont wire cables on your own without consulting a hackSpace technician.**
+
+[INDUSTVILLE's Fabric Flex Lighting Wire](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is suitable for max 40W indoor lighting connection to mains. 3-core wires. 
 
 Read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md)
-
-
-
-
-
 
