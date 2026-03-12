@@ -5,39 +5,67 @@ Choosing the right wire is an essential step when building any electronic projec
 Main factors determine whether a wire is appropriate:
 
 **1. Conductor thickness**
-This affects how much **current** the wire can carry without overheating.
+This affects how much **current** the wire can carry without overheating. Current (amps) can generate heat — too much current through too thin a wire and it overheats, melts insulation, or causes a fire.
 
 **2. Insulation thickness and material**
 This affects how well the wire can handle the **voltage** and protect against short circuits, heat, and physical damage.
 
+**3. Wire colour coding**
+Colour conventions help identify **live, neutral, and earth** conductors and avoid dangerous mix-ups.
+
 More info: [here](https://www.switchelectronics.co.uk/blogs/news/electronics-automotive-cable-guide)
+
+---
+### INSULATION MATERIALS
+
+| Insulation | Temp Rating | Typical Use | Notes |
+|------------|-------------|-------------|-------|
+| PVC | 70°C | General purpose, indoor wiring | Most common; avoid near heat sources |
+| Silicone | 180–200°C | High-temp environments, near motors | Flexible and heat-resistant; more expensive |
+| Rubber/Neoprene | 60–90°C | Outdoor, flexible leads, power tools | Good abrasion and weather resistance |
+| Cloth/Fabric braid | Varies | Decorative lighting, vintage aesthetics | Usually over PVC core; not rated for high current |
+
+> **Tip:** For most 3.3V–12V hobbyist projects, standard PVC-insulated wire is perfectly adequate.
+
+---
+### COLOUR CODING
+
+#### UK / European (IEC 60446 standard)
+| Colour | Function |
+|--------|----------|
+| Brown | Live (Line) |
+| Blue | Neutral |
+| Green/Yellow stripe | Earth |
+
+#### Low-voltage DC (common convention)
+| Colour | Function |
+|--------|----------|
+| Red | Positive (+) |
+| Black | Negative / Ground (−) |
 
 ---- 
 ### WIRE THICKNESS GUIDE
 
+Note: Suppliers from the EU will refer to mm2, while US suppliers follow the AWG guide. 
 
-| Voltage / Use | Wire Size (mm²)  | Typical Current (A) | Notes |
-|---------------|-----------------|-------------------|-------|
-| 3 V or lower  | 0.22 | ≤ 0.5 | Very low current, flexible wire for breadboards and small modules |
-| 5 V electronics  | 0.5  | 0.5–2 | Suitable for low-current projects, short runs, and single modules |
-| 5 V electronics  | 0.75  | 2–5 | Use for higher current draws or longer cable runs |
-| 12 V low-current  | 0.5–0.75  | 2–5 | Suitable for light 12 V circuits; use flexible automotive cable |
-| 12 V higher-current  | 1.0–1.5  | 5–10 | Thicker wire needed for higher current draws or longer runs |
-| High Voltage / Mains | Follow UK T&E or flex standards  | Varies | Consult a qualified technician. Risk assessment and PAT testing required. |
+### WIRE THICKNESS GUIDE
 
+| Scenario | Wire Size (mm²) | Typical Current | Notes |
+|----------|----------------|-----------------|-------|
+| 5-12 V low-current (LED strips, small fans) | 0.5–0.75mm² | up to 3 A | Use flexible stranded; keep runs short |
+| 12 V higher-current (motors, multiple LED strips) | 1.0–1.5mm² | 3–5 A | Don't undersize — voltage drop and heat become real issues |
+| Mains (lighting, bulbs) | Follow UK T&E | Varies | See High Voltage section below |
 
 ----  
 ### High Voltage + PAT Testing
 
-Any mains voltage or other high-voltage systems **require special cable types and professional knowledge**. 
-
 **Please approach a hackSpace technician if your project requires connections to the mains.**
 
-Using the wrong cable can create a fire or shock hazard.
+Using the wrong cable can cause a fire. 
 
-A **Risk Assessment document** signed by your Tutor will be requested if your project involves High Voltage.
+A **Risk Assessment document** signed by your Tutor will be requested if your project involves high voltage.
 
-Once your High Voltage project has been wired, you won't be allowed to take the project with you until you provide evidence of a PAT test that confirms that your project is safe. 
+Once your high voltage project has been wired, you won't be allowed to take the project with you until you provide evidence of a PAT test that confirms that your project is safe. 
 
 KU provides free PAT testing through our KU electricians. You can request it via your Tutor. Please note that arranging an appointment may take some time.
 
