@@ -79,3 +79,9 @@ KU provides free PAT testing through our KU electricians. You can request it via
 
 Read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md)
 
+----
+###  Crimp Connectors
+
+[Tutorial: how to use crimp connectors](https://www.youtube.com/watch?v=goxVeefDpQg)
+
+
