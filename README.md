@@ -44,7 +44,7 @@ More info: [here](https://www.switchelectronics.co.uk/blogs/news/electronics-aut
 | Black | Negative / Ground (−) |
 
 ---- 
-### WIRE THICKNESS GUIDE
+### WIRE THICKNESS GUIDE DC powered projects
 
 Note: Suppliers from the EU will refer to mm2, while US suppliers follow the AWG guide. 
 
@@ -52,7 +52,6 @@ Note: Suppliers from the EU will refer to mm2, while US suppliers follow the AWG
 |----------|----------------|-----------------|-------|
 | 5-12 V low-current (LED strips, small fans) | 0.5–0.75mm² | up to 3 A | Use flexible stranded; keep runs short |
 | 12 V higher-current (motors, multiple LED strips) | 1.0–1.5mm² | 3–5 A | Don't undersize — voltage drop and heat become real issues |
-| Mains (lighting, bulbs) | Follow UK T&E | Varies | See High Voltage section below |
 
 ----  
 ### High Voltage + PAT Testing
