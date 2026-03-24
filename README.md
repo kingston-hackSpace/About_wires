@@ -75,9 +75,9 @@ KU provides free PAT testing through our KU electricians. You can request it via
 
 **NOTE: High voltage wiring is extremely dangerous if done incorrectly. Please dont wire cables on your own without consulting a hackSpace technician.**
 
-[INDUSTVILLE's Fabric Flex Lighting Wires](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md) are suitable for max 40W indoor lighting connection to mains. 3-core wires. 
+***INDUSTVILLE.co.uk*** offers 3-core cloth wires suitable for max 40W indoor lighting connection to mains. Read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md).
 
-[Creative Cables](https://www.creative-cables.co.uk/collections/electrical-wire) is an italian company dedicated to lighting. Most of the cables are available in the UK via Dannells.
+***Creative-Cables.co.uk*** is an italian company dedicated to lighting. Most of the cables are available in the UK directly from [their website](https://www.creative-cables.co.uk/collections/electrical-wire) or via [Dannells](https://www.dannells.com/fabric-covered-electrical-cable-799-c.asp).
 
 
 
