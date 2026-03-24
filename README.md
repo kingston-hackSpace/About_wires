@@ -75,11 +75,11 @@ KU provides free PAT testing through our KU electricians. You can request it via
 
 **NOTE: High voltage wiring is extremely dangerous if done incorrectly. Please dont wire cables on your own without consulting a hackSpace technician.**
 
-[INDUSTVILLE's Fabric Flex Lighting Wire](https://www.industville.co.uk/products/fabric-flex-3-core-braided-cloth-cable-lighting-wire?variant=54914849571198) is suitable for max 40W indoor lighting connection to mains. 3-core wires. 
+[INDUSTVILLE's Fabric Flex Lighting Wires](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md) are suitable for max 40W indoor lighting connection to mains. 3-core wires. 
 
 [Creative Cables](https://www.creative-cables.co.uk/collections/electrical-wire)
 
-Read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md)
+
 
 ----
 ###  Crimp Connectors
