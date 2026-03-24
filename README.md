@@ -77,7 +77,7 @@ KU provides free PAT testing through our KU electricians. You can request it via
 
 [INDUSTVILLE's Fabric Flex Lighting Wires](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md) are suitable for max 40W indoor lighting connection to mains. 3-core wires. 
 
-[Creative Cables](https://www.creative-cables.co.uk/collections/electrical-wire) is an italian company dedicated to lighting. Most of the cables are available i the UK via Amazon.
+[Creative Cables](https://www.creative-cables.co.uk/collections/electrical-wire) is an italian company dedicated to lighting. Most of the cables are available in the UK via Dannells.
 
 
 
