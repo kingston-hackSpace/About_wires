@@ -75,10 +75,13 @@ KU provides free PAT testing through our KU electricians. You can request it via
 
 **NOTE: High voltage wiring is extremely dangerous if done incorrectly. Please dont wire cables on your own without consulting a hackSpace technician.**
 
+To purchase the correct wire, you first need to know what type of electronic device you are building and how much power it draws. I will also vary if you are building a metallic or non-metallic lamp/device/installation. Contact a hackSpace technician for advice. 
+
 ***INDUSTVILLE.co.uk*** offers 3-core cloth wires suitable for max 40W indoor lighting connection to mains. Read more [here](https://github.com/kingston-hackSpace/About_wires/blob/main/ClothWire-Industville.md).
 
 ***Creative-Cables.co.uk*** is an italian company dedicated to lighting. Most of the cables are available in the UK directly from [their website](https://www.creative-cables.co.uk/collections/electrical-wire) or via [Dannells](https://www.dannells.com/fabric-covered-electrical-cable-799-c.asp).
 
+***LEDSONE.co.uk*** sells lighting wires via [their website](https://ledsone.co.uk/collections/vintage-cables) and via [Amazon](https://www.amazon.co.uk/LEDSone16-4ft-Electrical-conductors-Industrial-Red_White/dp/B0D9QJNFWK?ref_=ast_sto_dp&th=1)
 
 
 ----
