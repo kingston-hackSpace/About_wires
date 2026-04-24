@@ -50,8 +50,10 @@ Note: Suppliers from the EU will refer to mm2, while US suppliers follow the AWG
 
 | Scenario | Wire Size (mm²) | Typical Current | Notes |
 |----------|----------------|-----------------|-------|
-| 5-12 V low-current (LED strips, small fans) | 0.5–0.75mm² | up to 3 A | Use flexible stranded; keep runs short |
-| 12 V higher-current (motors, multiple LED strips) | 1.0–1.5mm² | 3–5 A | Don't undersize — voltage drop and heat become real issues |
+| 5-12 V | 0.10mm² (28AWG)| up to 500mA | Jumpers |
+| 5-12 V | 0.50mm² (20-22AWG)| up to 3 A | thin wires available at hackSpace |
+| 5-12 V | 0.75mm² (18AWG)| up to 5 A | Warning: Keep short |
+| 5-12 V | 1.5mm² (15-16AWG)| up to 10 A | Warning: keep short |
 
 > This reference guide it is not for high voltage connections. Read below.
 
